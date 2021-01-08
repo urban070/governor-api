@@ -1,0 +1,6 @@
+{
+  "minimum-stability":"dev",
+  "require": {
+    "sc0vu/web3.php": "dev-master"
+  }
+}
