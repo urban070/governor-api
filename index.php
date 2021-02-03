@@ -54,7 +54,8 @@ $redirects = array (
 
 $paths = array (
 	array("/gdao/circulatingSupply","api/circulatingSupply.php"),
-	array("/gdao/totalSupply","api/totalSupply.php")
+	array("/gdao/totalSupply","api/totalSupply.php"),
+	array("/gdao/price","api/price.php")
 );
 
 $redirectsCount = count($redirects);
